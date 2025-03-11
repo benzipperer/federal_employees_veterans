@@ -1,0 +1,52 @@
+state_name,state_fips,geo_name,federal_workers,margin_of_error,share_of_employment
+Alabama,1,Alabama,61913,3408,0.028
+Alaska,2,Alaska,15026,2167,0.045
+Arizona,4,Arizona,63817,4430,0.019
+Arkansas,5,Arkansas,20132,2173,0.015
+California,6,California,255642,8397,0.014
+Colorado,8,Colorado,60567,4144,0.02
+Connecticut,9,Connecticut,21976,2509,0.012
+Delaware,10,Delaware,9190,1716,0.019
+District of Columbia,11,District of Columbia,49115,3487,0.132
+Florida,12,Florida,154272,6500,0.015
+Georgia,13,Georgia,106467,6003,0.021
+Hawaii,15,Hawaii,29370,2242,0.045
+Idaho,16,Idaho,18548,2078,0.02
+Illinois,17,Illinois,89745,5819,0.015
+Indiana,18,Indiana,48330,3415,0.015
+Iowa,19,Iowa,21860,1736,0.014
+Kansas,20,Kansas,28117,2389,0.02
+Kentucky,21,Kentucky,34776,2833,0.017
+Louisiana,22,Louisiana,34649,2947,0.018
+Maine,23,Maine,12008,1725,0.018
+Maryland,24,Maryland,225403,8108,0.073
+Massachusetts,25,Massachusetts,43942,2767,0.012
+Michigan,26,Michigan,54341,3357,0.012
+Minnesota,27,Minnesota,31658,2633,0.011
+Mississippi,28,Mississippi,30064,2597,0.024
+Missouri,29,Missouri,52861,3285,0.018
+Montana,30,Montana,15355,1727,0.028
+Nebraska,31,Nebraska,17482,1827,0.017
+Nevada,32,Nevada,27766,2569,0.018
+New Hampshire,33,New Hampshire,13057,1840,0.018
+New Jersey,34,New Jersey,56212,3667,0.012
+New Mexico,35,New Mexico,44222,2970,0.048
+New York,36,New York,129356,6276,0.014
+North Carolina,37,North Carolina,84897,4812,0.017
+North Dakota,38,North Dakota,9154,1483,0.023
+Ohio,39,Ohio,81074,3720,0.014
+Oklahoma,40,Oklahoma,60134,2985,0.034
+Oregon,41,Oregon,25315,2374,0.012
+Pennsylvania,42,Pennsylvania,90519,4335,0.015
+Rhode Island,44,Rhode Island,11942,2197,0.022
+South Carolina,45,South Carolina,43153,3716,0.018
+South Dakota,46,South Dakota,10456,1517,0.023
+Tennessee,47,Tennessee,66636,4745,0.02
+Texas,48,Texas,249035,9706,0.017
+Utah,49,Utah,35193,2752,0.021
+Vermont,50,Vermont,5528,965,0.017
+Virginia,51,Virginia,235469,7142,0.056
+Washington,53,Washington,78252,4849,0.021
+West Virginia,54,West Virginia,22978,1704,0.031
+Wisconsin,55,Wisconsin,28915,2519,0.01
+Wyoming,56,Wyoming,8111,1492,0.029
